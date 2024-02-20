@@ -1,0 +1,22 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.weather-info{
+   position: absolute;
+   top: 35%;
+   background-color: lightblue;
+   width: 250px;
+   height: 250px;
+   align-items: center;
+   border-radius: 5%;
+   text-align: center;
+   
+}
+
+h1{
+    margin-top: 12%;
+}
